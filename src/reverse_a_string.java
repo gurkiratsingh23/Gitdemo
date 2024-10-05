@@ -22,6 +22,7 @@ public class reverse_a_string {
 		System.out.println("testing git4");
 		
 		System.out.println("testing git7");
+		System.out.println("master to dev");
 	}
 
 }
