@@ -23,6 +23,7 @@ public class reverse_a_string {
 		
 		System.out.println("testing git7");
 		System.out.println("master to dev");
+		System.out.println("checking git1");
 	}
 
 }
